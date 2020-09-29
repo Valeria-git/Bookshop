@@ -1,0 +1,39 @@
+﻿  Admin.cpp
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\admin.cpp(115): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\admin.cpp(130): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\admin.cpp(327): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\admin.cpp(345): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Bank.cpp
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\bank.cpp(32): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+  Book.cpp
+  BookForSale.cpp
+  Bookshop.cpp
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\bookshop.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\bookshop.cpp(142): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\bookshop.cpp(151): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\bookshop.cpp(164): warning C4018: >=: несоответствие типов со знаком и без знака
+  Buyer.cpp
+  Cart.cpp
+  Catalog.cpp
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\catalog.cpp(19): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+  Client.cpp
+  CreditCard.cpp
+  ICryptData.cpp
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\icryptdata.cpp(8): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Main.cpp
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\main.cpp(43): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\main.cpp(76): warning C4101: result: неиспользованная локальная переменная
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\main.cpp(69): warning C4101: name: неиспользованная локальная переменная
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\main.cpp(68): warning C4101: buf1: неиспользованная локальная переменная
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\main.cpp(67): warning C4101: buf: неиспользованная локальная переменная
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\main.cpp(75): warning C4101: res: неиспользованная локальная переменная
+  Menu.cpp
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\menu.cpp(12): warning C4101: price: неиспользованная локальная переменная
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\menu.cpp(13): warning C4101: amount: неиспользованная локальная переменная
+  User.cpp
+  UserBase.cpp
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\userbase.cpp(35): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+  ValidData.cpp
+  Создание кода...
+c:\users\lenovo\source\repos\bookshopmy\bookshopmy\bank.cpp(76): warning C4715: Bank::addToBankBase: значение возвращается не при всех путях выполнения
+  BookshopMy.vcxproj -> C:\Users\Lenovo\source\repos\BookshopMy\Debug\BookshopMy.exe
